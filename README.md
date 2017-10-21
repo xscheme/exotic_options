@@ -1,2 +1,2 @@
 # exotic_options
-this project provides the pricing library for exotic options in PHP.
+This project provides a pricing implementation for various exotic options in PHP.
